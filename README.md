@@ -21,6 +21,7 @@ This project involves clustering cryptocurrencies based on their performance and
     ```bash
     jupyter notebook Crypto_Clustering.ipynb
     ```
+2. The output and analysis can then be found in the [Crypto_Clustering.ipynb](Crypto_Clustering.ipynb) file.
 
 ## References
 
